@@ -1,0 +1,5 @@
+case $1 in
+mercury | Mercury ) echo "merc"
+Venus | venus ) echo "$1 has no satellites"$1 has no satellites"
+"
+esac

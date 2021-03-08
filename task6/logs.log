@@ -1,0 +1,7 @@
+done.
+fc-cache: succeeded
+Mar  8 12:08:32 roma-VirtualBox kernel: [   45.746546] rfkill: input handler disabled
+update-alternatives 2021-03-07 17:25:44: run with --install /usr/bin/x-www-browser x-www-browser /usr/bin/firefox 40
+Single card detected
+Mar  8 14:30:01 roma-VirtualBox CRON[2795]: pam_unix(cron:session): session closed for user root
+2021-03-08 00:57:21 status installed man-db:amd64 2.9.1-1
